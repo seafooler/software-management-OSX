@@ -1,0 +1,8 @@
+- Fiddler
+  - None
+  - 28/04/2018
+  - https://www.telerik.com/download/fiddler/fiddler-osx-beta
+- Mono Franmework
+  - —> Fiddler
+  - 28/04/2018
+  - http://www.mono-project.com/download/stable/
